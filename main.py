@@ -15,7 +15,7 @@ def  scrappe_data(filename):
    for line in lines:
        #print(line)
        i=i+1
-       
+       #prueba
        if i==1:
            #print("linea: "+str(i))
            #print(line)
